@@ -1,3 +1,52 @@
 {
-    "prisma-smart-formatter.typescriptreact.defaultFormatter": "esbenp.prettier-vscode"
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#ff4d4d",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#000",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#FFD66B",
+      "strikethrough": false,
+      "underline": true,
+      "bold": false,
+      "backgroundColor": "#000",
+      "italic": true
+    },
+    {
+      "tag": "=done",
+      "color": "#03A6A1",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "#F2EFE7",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "Mess",
+      "color": "#67e480",
+      "strikethrough": false,
+      "backgroundColor": "#fff",
+      "underline": true,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "NEW",
+      "color": "#032543",
+      "backgroundColor": "#f7e74a",
+      "strikethrough": false,
+      "underline": true,
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "prisma-smart-formatter.typescriptreact.defaultFormatter": "esbenp.prettier-vscode"
 }
+
+
