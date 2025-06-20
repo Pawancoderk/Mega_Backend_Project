@@ -465,5 +465,6 @@ export {
   updateAccountsDetails,
   updateUserAvatar,
   updateUsercoverImage,
-  getUserChannelProfile
+  getUserChannelProfile,
+  getWatchHistory
 }
